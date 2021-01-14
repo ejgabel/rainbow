@@ -1,3 +1,3 @@
 # rainbow
 Coding video rainbow project
-bruh moment
+Ethan Gabel 1/14/2021
